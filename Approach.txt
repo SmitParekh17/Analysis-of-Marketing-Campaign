@@ -1,0 +1,29 @@
+Approach:
+
+1) Data Loading
+
+2) Check numeric and categorical features
+
+3) Check missing data
+
+4) Check for class  imbalance
+
+5) Detecting outliers
+
+6) EDA and Data Visualizations
+i) Univariate analysis
+ii) Bivariate Analysis
+
+7) Treating Outliers
+
+8) Encoding
+
+9) Normalizing
+
+10) Applying base models
+
+11) Feature Selection
+
+12) Grid Search, Hyperparameter Optimization and SMOTE
+
+13) Ensemble Learning
